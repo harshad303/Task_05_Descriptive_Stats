@@ -86,7 +86,5 @@ All tested prompts were correctly answered by GPT-4o and validated against Pytho
 
 ## 🧾 Submission Notes
 
-- Author: **Poonam Bhogale**
-- Email: `jrstrome@syr.edu` (for submission)
-- GitHub Repo: `Task_05_Descriptive_Stats`
+- Author: **Harshad Hirde**
 - Status: ✔️ Phase 1 complete
